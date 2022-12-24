@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: dodgerblue;
+    color: lightgrey;
+    text-align: center;
+}
+
+#div{
+    height: 300px;
+    display:block;
+    background-color: burlywood;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#btn{
+    color: black;
+    font-weight: bold;
+    background-color: gold;
+    border: none;
+    padding: 5px;
+
+}
+
+#btn:hover{
+    color: darkblue;
+    background-color:aquamarine;
+}
+
+select{
+    color: blue;
+}
+
+#result{
+    color: black;
+    background-color: lightgrey;
+    width: 100%;
+    height: 40px;
+}
